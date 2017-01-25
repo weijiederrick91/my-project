@@ -1,0 +1,228 @@
+
+
+
+User 24%, System 2%, IOW 0%, IRQ 0%
+User 15 + Nice 588 + Sys 51 + Idle 1805 + IOW 7 + IRQ 3 + SIRQ 2 = 2471
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  2  23% R     3 1310456K  89972K  bg u0_a2999 /system/bin/dex2oat
+  913  3   0% S   104 2311980K 167856K  fg system   system_server
+ 7125  4   0% R     1   6256K   1412K  fg shell    top
+   45  3   0% S     1      0K      0K  fg root     kworker/u16:2
+ 6365  0   0% S    43 1519560K  80984K  bg u0_a22   com.android.vending
+ 2991  3   0% S    32 1588616K 122940K  fg u0_a27   com.android.systemui
+  291  0   0% D     1      0K      0K  fg root     msm-core:sampli
+ 3112  0   0% S     1      0K      0K  fg root     kworker/u17:7
+  248  0   0% S     1      0K      0K  fg root     mmcqd/0
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+   37  3   0% S     1      0K      0K  fg root     kworker/u17:1
+  329  0   0% S     1      0K      0K  fg root     kworker/u17:5
+ 4032  2   0% S    51 1648884K 126316K  fg u0_a12   com.google.android.gms.persistent
+  326  0   0% S     1      0K      0K  fg root     kworker/u17:2
+  328  3   0% S     1      0K      0K  fg root     kworker/u17:4
+
+
+
+User 24%, System 0%, IOW 0%, IRQ 0%
+User 4 + Nice 592 + Sys 24 + Idle 1838 + IOW 0 + IRQ 6 + SIRQ 3 = 2467
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  2  24% R     3 1325560K 108672K  bg u0_a2999 /system/bin/dex2oat
+ 7125  5   0% R     1   6256K   1412K  fg shell    top
+  251  0   0% D     1      0K      0K  fg root     kworker/u16:3
+  913  3   0% S   104 2311980K 167856K  fg system   system_server
+  373  0   0% S     1      0K      0K  fg root     kworker/0:3
+    8  3   0% R     1      0K      0K  fg root     rcu_preempt
+  381  3   0% S    13 208364K  23080K  fg system   /system/bin/surfaceflinger
+  291  3   0% D     1      0K      0K  fg root     msm-core:sampli
+  435  2   0% S     1      0K      0K  fg root     irq/215-fc38800
+ 2991  3   0% S    32 1588616K 122940K  fg u0_a27   com.android.systemui
+  239  0   0% S     1      0K      0K  fg root     cfinteractive
+  535  0   0% S     2  12764K   3680K  fg system   /system/bin/ATFWD-daemon
+   45  0   0% S     1      0K      0K  fg root     kworker/u16:2
+   35  0   0% D     1      0K      0K  fg root     kworker/u17:0
+  248  0   0% S     1      0K      0K  fg root     mmcqd/0
+
+
+
+User 24%, System 0%, IOW 0%, IRQ 0%
+User 4 + Nice 596 + Sys 23 + Idle 1819 + IOW 3 + IRQ 8 + SIRQ 4 = 2457
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  2  24% R     3 1334520K 118136K  bg u0_a2999 /system/bin/dex2oat
+ 7125  5   0% R     1   6256K   1552K  fg shell    top
+  913  3   0% S   104 2311980K 167856K  fg system   system_server
+  251  3   0% S     1      0K      0K  fg root     kworker/u16:3
+ 2991  3   0% S    32 1588616K 122940K  fg u0_a27   com.android.systemui
+  291  0   0% D     1      0K      0K  fg root     msm-core:sampli
+   20  3   0% S     1      0K      0K  fg root     ksoftirqd/3
+    8  3   0% S     1      0K      0K  fg root     rcu_preempt
+ 4032  0   0% S    51 1648884K 126316K  fg u0_a12   com.google.android.gms.persistent
+  435  2   0% S     1      0K      0K  fg root     irq/215-fc38800
+  379  0   0% S     1   6400K   1052K  fg root     /system/bin/lmkd
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  2   0% S     1      0K      0K  fg root     migration/2
+   16  2   0% S     1      0K      0K  fg root     ksoftirqd/2
+
+
+
+User 28%, System 4%, IOW 0%, IRQ 1%
+User 103 + Nice 609 + Sys 123 + Idle 1592 + IOW 7 + IRQ 21 + SIRQ 8 = 2463
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  2  24% R     3 1346296K 129424K  bg u0_a2999 /system/bin/dex2oat
+  913  6   2% S   103 2314936K 169592K  fg system   system_server
+ 4032  4   1% S    54 1652100K 125024K  fg u0_a12   com.google.android.gms.persistent
+ 3441  0   0% S    41 2401584K 134596K  fg u0_a29   com.google.android.googlequicksearchbox
+ 5971  6   0% S    51 1799940K 127344K  bg u0_a12   com.google.android.gms
+  381  1   0% S    14 176096K  23160K  fg system   /system/bin/surfaceflinger
+ 3551  0   0% S   103 2318480K 124956K  bg u0_a29   com.google.android.googlequicksearchbox:search
+ 3655  0   0% S    17 1451680K  56020K  bg u0_a12   com.google.process.gapps
+ 2991  0   0% S    32 1588704K 123696K  fg u0_a27   com.android.systemui
+ 7125  5   0% R     1   6256K   1552K  fg shell    top
+    8  5   0% S     1      0K      0K  fg root     rcu_preempt
+ 5823  0   0% S     1      0K      0K  fg root     kworker/u16:6
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+ 3316  0   0% S    15 1458412K  70076K  bg u0_a2    android.process.acore
+
+
+
+User 27%, System 3%, IOW 1%, IRQ 3%
+User 82 + Nice 602 + Sys 93 + Idle 1605 + IOW 35 + IRQ 85 + SIRQ 5 = 2507
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  2  23% R     3 1351928K 135540K  bg u0_a2999 /system/bin/dex2oat
+ 3441  1   1% S    41 2309064K 133884K  fg u0_a29   com.google.android.googlequicksearchbox
+  381  1   1% S    14 192740K  23124K  fg system   /system/bin/surfaceflinger
+  913  0   0% S   103 2349392K 171096K  fg system   system_server
+ 7133  0   0% D     1      0K      0K  fg root     mdss_fb0
+ 2991  0   0% S    32 1588704K 123696K  fg u0_a27   com.android.systemui
+ 7125  4   0% R     1   6256K   1552K  fg shell    top
+    8  6   0% S     1      0K      0K  fg root     rcu_preempt
+   45  1   0% S     1      0K      0K  fg root     kworker/u16:2
+  248  0   0% S     1      0K      0K  fg root     mmcqd/0
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+  520  3   0% S     7  11972K   1056K  fg root     /system/bin/perfd
+  152  1   0% D     1      0K      0K  fg root     mdss_dsi_event
+  129  6   0% S     1      0K      0K  fg root     kswapd0
+
+
+
+User 29%, System 4%, IOW 0%, IRQ 0%
+User 121 + Nice 594 + Sys 113 + Idle 1554 + IOW 2 + IRQ 15 + SIRQ 8 = 2407
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  3  24% R     3 1360376K 144140K  bg u0_a2999 /system/bin/dex2oat
+ 7177  0   2% S    15 1563768K  88592K  fg system   com.android.settings
+  913  1   1% S   103 2328720K 167360K  fg system   system_server
+  381  2   1% S    14 192560K  23152K  fg system   /system/bin/surfaceflinger
+ 7133  0   0% S     1      0K      0K  fg root     mdss_fb0
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+ 3441  0   0% S    41 2309064K 133552K  bg u0_a29   com.google.android.googlequicksearchbox
+ 5971  0   0% S    48 1796644K 123564K  bg u0_a12   com.google.android.gms
+ 2991  2   0% S    32 1588704K 123824K  fg u0_a27   com.android.systemui
+ 3551  0   0% S   103 2297404K 117436K  bg u0_a29   com.google.android.googlequicksearchbox:search
+ 7125  4   0% R     1   6256K   1556K  fg shell    top
+ 7154  0   0% S     1      0K      0K  fg root     irq/504-synapti
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+  376  5   0% S     1      0K      0K  fg root     kworker/u16:5
+  129  4   0% S     1      0K      0K  fg root     kswapd0
+
+
+
+User 27%, System 3%, IOW 0%, IRQ 0%
+User 65 + Nice 596 + Sys 92 + Idle 1630 + IOW 6 + IRQ 17 + SIRQ 7 = 2413
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7122  1  24% R     3 1368312K 152236K  bg u0_a2999 /system/bin/dex2oat
+  381  0   1% S    14 175816K  23232K  fg system   /system/bin/surfaceflinger
+  913  3   0% S   103 2328968K 167512K  fg system   system_server
+  512  2   0% S    17  98172K  15360K  fg media    /system/bin/mediaserver
+ 7177  0   0% S    14 1529440K  88540K  bg system   com.android.settings
+ 2991  3   0% S    32 1588704K 124068K  fg u0_a27   com.android.systemui
+ 7125  4   0% R     1   6256K   1556K  fg shell    top
+ 7133  0   0% D     1      0K      0K  fg root     mdss_fb0
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+ 3441  0   0% S    41 2223824K 109596K  bg u0_a29   com.google.android.googlequicksearchbox
+  376  0   0% S     1      0K      0K  fg root     kworker/u16:5
+  526  1   0% S     5 2087708K  79808K  fg root     zygote64
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+ 5823  0   0% S     1      0K      0K  fg root     kworker/u16:6
+   51  5   0% S     1      0K      0K  fg root     system
+
+
+
+User 14%, System 7%, IOW 2%, IRQ 0%
+User 99 + Nice 263 + Sys 184 + Idle 1808 + IOW 62 + IRQ 8 + SIRQ 7 = 2431
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  913  3   4% S   103 2435320K 173696K  fg system   system_server
+ 7236  4   1% S    18 1531940K  74016K  fg u0_a42   com.android.documentsui
+  381  2   0% S    14 175816K  23000K  fg system   /system/bin/surfaceflinger
+ 2991  2   0% S    32 1588728K 124096K  fg u0_a27   com.android.systemui
+ 7125  5   0% R     1   6256K   1560K  fg shell    top
+  248  0   0% S     1      0K      0K  fg root     mmcqd/0
+  129  4   0% S     1      0K      0K  fg root     kswapd0
+ 5971  0   0% D    55 1804128K 123800K  bg u0_a12   com.google.android.gms
+ 5200  3   0% S    11 1440684K  48700K  fg u0_a7    com.android.defcontainer
+    8  1   0% S     1      0K      0K  fg root     rcu_preempt
+ 7133  0   0% D     1      0K      0K  fg root     mdss_fb0
+  380  3   0% S     1   5852K   1140K  fg system   /system/bin/servicemanager
+ 3551  0   0% S   104 2305476K 119372K  bg u0_a29   com.google.android.googlequicksearchbox:search
+  326  3   0% S     1      0K      0K  fg root     kworker/u17:2
+ 6365  0   0% S    43 1519560K  81424K  bg u0_a22   com.android.vending
+
+
+
+User 14%, System 8%, IOW 1%, IRQ 1%
+User 204 + Nice 141 + Sys 199 + Idle 1829 + IOW 27 + IRQ 15 + SIRQ 14 = 2429
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  913  2   6% S   103 2435320K 174108K  fg system   system_server
+ 5971  0   1% S    68 1825096K 129084K  bg u0_a12   com.google.android.gms
+ 5200  3   1% S    11 1440684K  49456K  fg u0_a7    com.android.defcontainer
+  380  0   0% S     1   5852K   1140K  fg system   /system/bin/servicemanager
+ 2963  0   0% S     4   9336K   1980K  fg media_rw /system/bin/sdcard
+ 4032  1   0% S    55 1653172K 124168K  fg u0_a12   com.google.android.gms.persistent
+ 3005  0   0% S    20 1458484K  65200K  bg u0_a8    android.process.media
+  248  0   0% R     1      0K      0K  fg root     mmcqd/0
+ 7177  0   0% S    14 1502084K  84184K  bg system   com.android.settings
+ 3441  0   0% S    41 2287152K 122904K  bg u0_a29   com.google.android.googlequicksearchbox
+    8  2   0% S     1      0K      0K  fg root     rcu_preempt
+ 2991  2   0% S    32 1589392K 124560K  fg u0_a27   com.android.systemui
+ 7125  5   0% R     1   6256K   1560K  fg shell    top
+  513  2   0% S     1   6116K   1636K  fg root     /system/bin/installd
+ 6365  0   0% S    44 1522680K  81588K  bg u0_a22   com.android.vending
+
+
+
+User 10%, System 7%, IOW 1%, IRQ 1%
+User 147 + Nice 100 + Sys 188 + Idle 1909 + IOW 40 + IRQ 9 + SIRQ 31 = 2424
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  913  3   5% S   103 2435096K 174424K  fg system   system_server
+ 3005  0   2% S    21 1459556K  65788K  bg u0_a8    android.process.media
+ 6365  0   1% S    44 1522936K  82468K  bg u0_a22   com.android.vending
+ 7308  0   1% S    62 2355796K  96196K  bg u0_a75   com.google.android.youtube
+ 5971  0   1% S    65 1821868K 130736K  bg u0_a12   com.google.android.gms
+ 2991  1   1% S    32 1590540K 126252K  fg u0_a27   com.android.systemui
+  248  0   0% S     1      0K      0K  fg root     mmcqd/0
+ 4032  3   0% S    55 1653172K 123936K  fg u0_a12   com.google.android.gms.persistent
+  381  1   0% S    14 175816K  22992K  fg system   /system/bin/surfaceflinger
+ 7125  5   0% R     1   6256K   1560K  fg shell    top
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+   16  2   0% S     1      0K      0K  fg root     ksoftirqd/2
+ 3390  4   0% S    28 1490128K  65668K  fg nfc      com.android.nfc
+ 7133  0   0% D     1      0K      0K  fg root     mdss_fb0
+ 3406  2   0% S    31 1494120K  75624K  fg radio    com.android.phone
+
+
+
+User 9%, System 9%, IOW 2%, IRQ 1%
+User 174 + Nice 53 + Sys 220 + Idle 1875 + IOW 55 + IRQ 16 + SIRQ 24 = 2417
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  913  1   4% S   103 2442260K 187644K  fg system   sys
